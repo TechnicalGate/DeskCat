@@ -3,7 +3,9 @@
 ## Credits
 Cat asset by ToffeeCraft on itch.io, https://toffeecraft.itch.io/pirate-cats
 ## How to Use
-Download executable
+For windows: download DeskCat.exe
+
+For mac: download DeskCat.app.zip
 
 Due to the way tkinter works, the cat will only have a transparent background on Windows computers.
 ## Things you can do
